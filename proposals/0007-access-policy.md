@@ -89,7 +89,8 @@ Requirements: One voucher from anyone with level 3 access or two vouchers from
 anyone from level 2. Applicants must have level 1 access to apply for level 2.
 
 Contributors with Write access will have the associated [write Github access
-policy](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/repository-roles-for-an-organization#permissions-for-each-role)
+policy](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories
+/repository-roles-for-an-organization#permissions-for-each-role)
 for the [Solana Improvement
 Documents](https://github.com/solana-foundation/solana-improvement-documents)
 repository.
